@@ -20,7 +20,9 @@ This project implements a movie recommendation system using collaborative filter
 
 Contributions are highly encouraged! If you want to improve the movie recommendation system or fix any bugs, please fork the repository and submit a pull request. Make sure to follow the contribution guidelines.
 
+## License
 
+This project is licensed under the MIT License. For more details, please see the LICENSE file.
 
 ## Acknowledgements
 
